@@ -2,7 +2,7 @@
 Simple PacMan
 
 # Description
-It is a simple Pac-Man. Pac-Man will move from one direction to other direction and it will trun when it hit the edge. It also open and close the mouth as it moves.
+It is a simple Pac-Man. Pac-Man will move from one direction to another and turn when it hits the edge. It also opens and closes the mouth as it moves in one direction to another.
 
 # How to run
 Click on Pac-Man to move from one direction to other.
